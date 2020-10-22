@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="JLua-basic-DrSamse",
-    version="0.1.1",
+    version="0.2.0",
     author="Samuel Nösslböck",
     author_email="samuel.noesslboeck@gmail.com",
     description="A Package for Json-like Lua usement in python",

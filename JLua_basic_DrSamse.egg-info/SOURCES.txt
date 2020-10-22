@@ -1,5 +1,6 @@
 README.md
 setup.py
+JLua/TestSources.py
 JLua/__init__.py
 JLua_basic_DrSamse.egg-info/PKG-INFO
 JLua_basic_DrSamse.egg-info/SOURCES.txt
